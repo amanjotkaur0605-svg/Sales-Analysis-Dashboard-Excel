@@ -1,0 +1,104 @@
+# 📊 Sales Analysis Dashboard | Microsoft Excel
+
+## 📌 Project Overview
+
+This is my personal Sales Analysis Dashboard project, created and designed entirely by me using Microsoft Excel.
+
+The dashboard provides an interactive overview of sales performance, profit, orders, quantity sold, discount patterns, regional sales, product categories, customer segments, and shipping performance.
+
+It transforms sales data into meaningful visual insights through charts, KPI cards, and interactive slicers.
+
+---
+
+## 🎯 Project Objectives
+
+- Analyze overall sales and profit performance.
+- Track total orders and quantity sold.
+- Explore sales and profit trends over time.
+- Compare performance across product categories.
+- Analyze regional sales performance.
+- Understand customer segment contributions.
+- Explore shipping mode performance.
+- Examine discount patterns.
+
+---
+
+## 📈 Key Performance Indicators (KPIs)
+
+- 💰 Total Sales: Rs. 229,720
+- 📊 Total Profit: Rs. 28,639
+- 📦 Total Orders: 5,009
+- 🛒 Total Quantity: 37,862
+- 🏷️ Average Discount: 16%
+- 🚚 Average Shipping Time: 3.96 Days
+
+---
+
+## 📊 Dashboard Features
+
+### 1. Sales & Profit Trend by Year
+Visualizes yearly sales and profit trends from 2014 to 2017.
+
+### 2. Sales by Category
+Compares sales and profit across Furniture, Office Supplies, and Technology.
+
+### 3. Sales by Region
+Analyzes regional performance across Central, East, South, and West.
+
+### 4. Top 10 Products
+Highlights products based on sales performance.
+
+### 5. Sales by Segment
+Visualizes sales contribution from Consumer, Corporate, and Home Office segments.
+
+### 6. Shipping Mode Performance Analysis
+Explores shipping modes and compares average shipping time and sales.
+
+---
+
+## 🎛️ Interactive Filters
+
+The dashboard includes interactive slicers for:
+
+- Category
+- Year
+- Region
+- Segment
+- Ship Mode
+
+These filters allow users to explore the dashboard from different perspectives.
+
+---
+
+## 💡 Key Insights
+
+- Technology is the leading category in sales.
+- The West region generates the highest sales revenue.
+- Office Supplies has comparatively higher discounts.
+- Sales show an increasing trend across the years displayed.
+- Consumer is the largest sales segment.
+
+---
+
+## 🛠️ Tools & Skills
+
+- Microsoft Excel
+- Data Analysis
+- Dashboard Development
+- Data Visualization
+- KPI Reporting
+- Interactive Slicers
+- Sales & Profit Analysis
+- Business Insights
+
+---
+
+## 📚 Learning Outcomes
+
+Through this project, I practiced analyzing sales data, building interactive dashboards, visualizing business KPIs, comparing categories and regions, and presenting insights in a clear and structured format.
+
+---
+
+## 👩‍💻 Project Credits
+
+Designed and developed entirely by me as my own personal learning and portfolio project.
